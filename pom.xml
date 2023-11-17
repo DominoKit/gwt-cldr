@@ -5,7 +5,7 @@
 
     <groupId>org.dominokit.i18n</groupId>
     <artifactId>gwt-cldr</artifactId>
-    <version>HEAD-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>gwt-lib</packaging>
 
     <name>GWT CLDR</name>
