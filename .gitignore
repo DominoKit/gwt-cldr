@@ -33,6 +33,7 @@ src/main/webapp/gwt_bree/
 **/www-test/
 
 **/dependency-reduced-pom.xml
+**/pom.xml.versionsBackup
 **/buildNumber.properties
 **/.mvn/timing.properties
 
@@ -66,3 +67,4 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+/pom.xml.versionsBackup
